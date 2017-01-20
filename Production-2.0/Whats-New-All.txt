@@ -1,4 +1,4 @@
-Version 2.0.63
+Version 2.0.63 : 2016/Nov/16
 
 Allow LockDown mode unlock in some edge cases
 Fix a bug relating to Attachment removal
@@ -7,20 +7,23 @@ Prepare for improved Attachment support in KDXchange
 Improvements to Demo database examples
 Add timestamp to generated snapshots in Demo database
 
-Version 2.0.62
+----------------
+Version 2.0.62 : 2016/Nov/1
 
 Correct some phrases in German and Spanish-Mex localisation
 Fix Trait and Tag transfers from KDXchange
 Orientation change in Settings no longer changes back to the System Language
 
-Version 2.0.61
+----------------
+Version 2.0.61 : 2016/Oct/26
 
 Localisation for Spanich-Mexican
 Online documentation now links to www.kddart.org
 Allow Trait Description to be blank
 Normalise GPS Location serialisation
 
-Version 2.0.60
+----------------
+Version 2.0.60 : 2016/Oct/18
 
 Display Trait Alias in Auto-Advance mode
 Add Trial with just a TrialName and X,Y size
@@ -28,40 +31,48 @@ Reinstate scrolling in FieldView
 Trial data export data uses trialname.csv and trialname_SubplotData.csv
 Provide battery usage logging via Settings
 
-Version 2.0.59
+----------------
+Version 2.0.59 : 2016/Oct/16
 
 Fix for Specimen Data output which is now available in a different file.
 
-Version 2.0.58
+----------------
+Version 2.0.58 : 2016/Oct/5
 
 Fix for Daylight saving in Elapsed days
 Fix for 4.3 inches keypad screen in Autoscoring.
 
-Version 2.0.57
+----------------
+Version 2.0.57 : 2016/Oct/3
 
 Crashes on coming back to KDSmart from another application resolved.
 Field View can be zoomed using fingers.
 Small screens up to 4.3' can install and score using KDSmart.
 Better user experience with Pane Layout to adjust Height allocated for Scoring and Plot information.
 
-Version 2.0.56
+----------------
+Version 2.0.56 : 2016/Aug/24
 KDSmart White background made consistent.
 Trait information color bug for Android Versions <= 20 solved.
 Trait Level information saving solved.
 
-Version 2.0.55
+----------------
+Version 2.0.55 : 2016/Aug/5
 A version released specifically for Tilapia build of Nexus 7 2012,
 the version failed to support the device.
 
-Version 2.0.54
+----------------
+Version 2.0.54 : 2016/Jul/24
 KDXchange support for KDDart Trials.
 Upload KDDart Trials support KDXplore ->  KDSmart.
 Download KDDart Trials support KDSmart -> KDXplore.
 
-Version 2.0.53
+----------------
+Version 2.0.53 : 2016/Jul/8
 Fixed Autoscoring bug
 
-Version 2.0.52
+----------------
+Version 2.0.52 : 2016/Jun/27
 
 Add Example of how to do Nursery scoring
 Show TraitLevel prefix when changing sort order
@@ -72,18 +83,21 @@ Ensure "Clear Selection menu is visible when required
 Default display of EDAYS is now day count
 Fix crash in Settings when Language set to German
 
-Version 2.0.51
+----------------
+Version 2.0.51 : 2016/Jun/22
 
 Fix PlotInfo sync when skipping backwards in auto-advance
 Provide blue, orange and magenta shades for heatmap
 
-Version 2.0.50
+----------------
+Version 2.0.50 : 2016/Jun/20
 
 Fix intermittent loss of sychronisation of PlotInfo in auto-advance mode
 Use Flags for easier Language selection
 Acknowledgement for Partners/Collaborators
 
-Version 2.0.49
+----------------
+Version 2.0.49 : 2016/Jun/14
 
 Add Settings option to choose Language
 * System Setting
@@ -92,7 +106,8 @@ Add Settings option to choose Language
 Fix text rendering in Help for non-English languages
 More translations.
 
-Version 2.0.48
+----------------
+Version 2.0.48 : 2016/Jun/13
 
 German localisation
 DeviceName and OperatorName visible on main screen
@@ -106,7 +121,8 @@ Keyboard Text size also applies to the "input" field
 Don't use Keyboard Text LARGE setting for small/landscape screens
 Use correct INT/DEC format for stored sample values (e.g. 2.00 if 2. is entered)
 
-Version 2.0.47
+----------------
+Version 2.0.47 : 2016/May/21
 
 Show current Preference Setting for:
 - Device Name
@@ -120,7 +136,8 @@ Fix a problem with ElapsedDays scoring.
 Ensure that "button" is visible when ElapsedDays
   value is greater than "+3d" option
 
-Version 2.0.46
+----------------
+Version 2.0.46 : 2016/May/19
 
 Fix intermittent problem saving KDX/ZIP/CSV
 GPS Location available in scoring
@@ -138,7 +155,8 @@ New icon for default Organism Type
 Fix creation of Unscored samples for SubPlot
 Miscellaneous bug fixes
 
-Version 2.0.45
+----------------
+Version 2.0.45 : 2016/May/6
 
 Traits must now be defined as Plot or SubPlot
 Adding Specimen to Plot only uses SubPlot Traits
@@ -149,7 +167,8 @@ Improve checking of first line data values for CSV import
 Ensure that current Trait Value is visible in auto-advance
 Increased size of Integer/Decimal input text field
 
-Version 2.0.44
+----------------
+Version 2.0.44 : 2016/Apr/15
 
 Menu "Add Tag" is immediately visible for Auto-Advance for Phone in Portrait mode
 KDXchange behaviour on current WiFi network:
@@ -161,11 +180,13 @@ Notify about non-adjacent Plots when skipping back during Auto-Advance
 Restore ability to skip forward in Auto-Advance
 Miscellaneous Bug fixes
 
-Version 2.0.43
+----------------
+Version 2.0.43 : 2016/Mar/17
 
 TEXT traits scored after DECIMAL or INTEGER now show the keyboard
 
-Version 2.0.42
+----------------
+Version 2.0.42 : 2016/Mar/16
 
 Auto-Advance scoring in the last Sample provides a message
 KDX files support for import from Tablet
@@ -179,7 +200,8 @@ Internal? Remove "TRAILING_DIGITS" TraitNameStyle
 Internal: EDAYS as integer
 
 
-Version 2.0.41
+----------------
+Version 2.0.41 : 2016/Feb/10
 
 Enable "value:description" for CATEGORICAL traits
 Allow non-TEXT traits to replace TEXT when importing a WorkPackage
@@ -189,23 +211,27 @@ Provide a "Cancel" button when scanning for KDXchange servers
 Provide sorting for lists of Trials, Traits and Tags
 Baseline support for alternate Locales for numeric Measurements
 
-Version 2.0.40
+----------------
+Version 2.0.40 : 2016/Jan/25
 
 Skip over de-activated Plots or Specimens when looking
 for next un-scored Samples.
 
-Version 2.0.39
+----------------
+Version 2.0.39 : 2016/Jan/24
 
 Fix Trial data transfer via KDXchange when the scoring sort order has
 not been previously set in KDXplore (apply usedForScoring and SSO from
 workPackage)
 
-Version 2.0.38
+----------------
+Version 2.0.38 : 2016/Jan/24
 
 Fix Trial data transfer via KDXchange when the scoring sort order has
 not been previously set in KDXplore.
 
-Version 2.0.37
+----------------
+Version 2.0.37 : 2016/Jan/20
 
 When exporting a Trial to the Tablet, the KDXplore option now appears first.
 Changing to high-visibility mode now applies to Trial, Trait and Tag
@@ -215,20 +241,20 @@ When auto-advance scoring skips a plot you now get a notification
 Improve cleanup of unused records during Trial deletion
 
 -----------------
-Version 2.0.36
+Version 2.0.36 : 2015/Dec/14
 
 Fixes some issues when Trials are transferred from KDXplore
 Removes trailing YMD timestamp when constructing Trial Name from CSV import file
 
 -----------------
-Version 2.0.35
+Version 2.0.35 : 2015/Dec/2
 
 Importing Traits and Tags into an empty database now shows details without having to exit/re-enter the Trait/Tag management page.
 Exporting Traits/Tags to Tablet displays destination in a dialog on completion.
 Export Folders are now timestamped.
 
 -----------------
-Version 2.0.34
+Version 2.0.34 : 2015/Nov/18
 
 Negative INT/DEC range limits are now supported.
 Typing the decimal point for a DECIMAL trait value automatically inserts a leading zero.
@@ -237,25 +263,25 @@ Walk Section changes during Auto-Advance scoring now produce a notification.
 Simplified user interface for "Export to KDXplore" for Trials.
 KDXplore format option now available in "Export to Tablet".
 -----------------
-Version 2.0.33
+Version 2.0.33 : 2015/Nov/18
 
 Fixes a problem using skipBack/skipForward during Auto-Advance
 Clear the number of selected plots in FieldView subtitle
 (as well as the selections).
 
 -----------------
-Version 2.0.32
+Version 2.0.32 : 2015/Nov/17
 
 Fixes a Race condition in FieldView initialisation
 Fix use of ZIP files with Storage Access Facility
 
 -----------------
-New in 2.0.31
+Version 2.0.31 : 2015/Nov/17
 
 Decimal points are now re-enabled in the Keypad entry method.
 
 -----------------
-New in 2.0.29
+Version 2.0.29 : 2015/Nov/16
 
 Sun/moon control on main screen to toggle hi-vis mode
 Screen orientation change during Scoring via menu option
@@ -263,7 +289,7 @@ Resolved a database upgrade problem
 Resolve KDXchange server life-cycle issues
 
 -----------------
-New in 2.0.28
+Version 2.0.28 : 2015/Nov/12
 
 Revert export menu invoking multi-select mode
 Barcode scanning not in Auto-advance mode
@@ -276,7 +302,7 @@ Support white background for scoring setup and main screen
 
 Misc bug fixes
 -----------------
-New in 2.0.27
+Version 2.0.27 : 2015/Nov/1
 
 Import works for NA,MISSING
 No duplicate trial imports
@@ -301,7 +327,7 @@ Icons in Scoring Setup
 
 Misc bug fixes
 -----------------
-New in 2.0.26
+Version 2.0.26 : 2015/Oct/11
 
 User interface readability improvements
 Attachments and Tags available during auto-advance
@@ -309,7 +335,7 @@ Create new Tag while selecting Tags
 Show Plot Type (i.e. "Checks") in plot information
 Miscellaneous fixes
 -----------------
-New in 2.0.25
+Version 2.0.25 : 2015/Oct/8
 
 Max 2 lines for Trait desc
 Don't delete in-use Traits
@@ -328,7 +354,7 @@ Fix Scoring Config Defaults
 Preference Icons for Default Visit Order
 Miscellaneous fixes
 -----------------
-What's New 2.0.24
+Version 2.0.24 : 2015/Sep/25
 
 Jump to Plot available from main scoring window
 * Touch on current Plot Button
@@ -338,7 +364,7 @@ Fixed issue when exporting Trial as ZIP
 
 Improved barcode generation (Demo database reset)
 -----------------
-What's New 2.0.23
+Version 2.0.23 : 2015/Sep/24
 
 KDXchange:
 * Export To KDXchange supports file export (.kdx)
@@ -358,7 +384,7 @@ Remove refs to "Old Scoring Dialogs"
 
 
 -----------------
-What's New 2.0.22
+Version 2.0.22 : 2015/Sep/15
 
 Fix Trait Details Validation
 Scoring auto-advance enhancements
@@ -377,7 +403,7 @@ UI visibility improvements
 
 Check at http://software.kddart.com/KDSmart/ for more information.
 -----------------
-What's New in 2.0.21
+Version in 2.0.21 : 2015/Sep/15
 
 Scoring auto-advance enhancements
 - transitions between Plots
@@ -395,7 +421,10 @@ UI visibility improvements
 
 Check at http://software.kddart.com/KDSmart/ for further information.
 -----------------
-What's New in 2.0.19
+Version in 2.0.20 : 2015/Sep/7
+
+-----------------
+Version in 2.0.19 : 2015/Jul/3
 
 Lockdown mode
   Available from main screen for DemoDatabase.
@@ -459,7 +488,7 @@ Internal:
   (e.g. BMS FieldLog XLS files)
 
 -----------------
-What's New in 2.0.18
+Version in 2.0.18 : 2015/Jun/4
 
 TraitInstances Select All/None fixed
 FileChooser should now only show .CSV and .TXT files (again)
@@ -477,7 +506,7 @@ Using "Link:" prefix for the join ids in ZIP export
 Preference (Settings) changes
 
 -----------------
-What's New in 2.0.17
+Version in 2.0.17 : 2015/Jun/2
 
 Fix for Database upgrade issue re "TagPlotUseId"
 Add LinkPlotId columns to relate the rows in the various CSV files
@@ -486,7 +515,7 @@ Fix crash on Landscape/Portrait orientation change while editing TrialLayout
 
 Known issue: the "Source" prefix is missing from the samples.csv file so it has two "SampleId" columns
 -----------------
-What's New in 2.0.16
+Version in 2.0.16 : 2015/Jun/2
 
 Build date/time now in About
 Settings: Scoring with white bg
@@ -501,7 +530,7 @@ Add DemoDB indicators to "Play" button and "Start Scoring"
 Enable DatabaseId for Export
 Improve error reporting (instead of crashes)
 -----------------
-What's New in 2.0.15
+Version in 2.0.15 : 2015/May/29
 
 Many changes in this release.
 Too many to fit into the 500 character limit.
@@ -586,7 +615,7 @@ B: CSV Import Formats
 C: CSV Export Formats
 In particular, describe SpecimenCount options for Trial Import.
 -----------------
-What's New in 2.0.14
+Version in 2.0.14 : 2015/May/22
 
 Increase PlotInfo font size
 Update PlotInfo
@@ -597,7 +626,7 @@ Report import errors
 Allow date import format of dd/mm/yy as well as ISO yyyy-mm-dd
 Export directory now user choice
 -----------------
-What's New in 2.0.10
+Version in 2.0.10 : 2015/May/20
 
 Fix bug in Scoring
 Use Plot Identification in Scoring UI
@@ -609,7 +638,7 @@ and you MAY also provide PlotId. After migration you will be able to provide
 PlotId INSTEAD OF Row/Column.
 
 -----------------
-What's New in 2.0.9
+Version in 2.0.9 : 2015/May/15
 
 Add Trial.NameForPlot
 PlantingDate replaces StartDate
@@ -625,12 +654,12 @@ Auto-advance for Tags when no Traits scored
 CSV Import UI
 Documentation updates
 -----------------
-What's New in 2.0.8
+Version in 2.0.8 : 2015/May/15
 
 2.0.7 changed an Image to an ImageButton in Trait Instance setup
-and this unexpectedly affected all functionality.-----------------
-File: Whats-New-2.0.7.txt
-What's New in 2.0.7
+and this unexpectedly affected all functionality.
+-----------------
+Version in 2.0.7 : 2015/May/15
 
 Export Trial available for DemoDB
 Export Trait available for DemoDB
@@ -642,7 +671,7 @@ Remove extra prompt for Specimen Activate/Deactivate
 
 
 -----------------
-What's New in 2.0.6
+Version in 2.0.6 : 2015/May/13
 
 Improve demarcation on Plot/Specimen Header Rows
 Reduce font size for "Plot Info"
@@ -657,7 +686,7 @@ Disable menu items that aren't currently activated
 
 
 -----------------
-What's New in 2.0.5
+Version in 2.0.5 : 2015/May/12
 
 Jump to Plot highlights the correct button
 Improve confirmation before deleting Traits
@@ -671,7 +700,7 @@ Note that the Map is a temporary placeholder and will be replaced by
 a fully functional version in a future alpha release.
 
 -----------------
-What's New in 2.0.4(7)
+Version in 2.0.4(7) : 2015/May/08
 
 Fix some issues on 4.0.3 on Samsung GT-P3110 for CIMMYT
 Tabs for Manage Trial/Tags in the ActionBar for increased visibility
@@ -687,7 +716,7 @@ Lock icon is now between Trait Name and Value
 Add "Planting Date" to CSV import (defaults to Trial Start Date)
 Prepare support for MISSING option (not yet visible in UI)
 === Below is what fits in 500 chars
-What's New in 2.0.4(7)
+Version in 2.0.4(7)
 Fix issues on 4.0.3 on Samsung GT-P3110 for CIMMYT
 Improve Tab visibility for Trait/Tags and Scoring Config
 Increase visibility of Trait Instance msg on Scoring Config
@@ -701,7 +730,7 @@ Add "Planting Date" to CSV import
 Add MISSING value (not yet in UI)
 
 -----------------
-File: Whats-New-2.0.3.txt
+Version 2.0.3 : 2015/May/06
 
 Fixed navigation to target plot from Map
 Fix Interrupted Scoring on Phones (e.g. to answer a call)
@@ -714,7 +743,7 @@ Implement workaround for Lollipop bug on Trait Instance selection
 Remove Group Indicator for single instance Traits
 Move Select/All and Select/None to the head of the Trait Instance list
 -----------------
-File: Whats-New-2.0.2.txt
+Version 2.0.2 : 2015/Apr/10
 
 Help menu on all screens
 Trait Instance Selection
