@@ -1,3 +1,12 @@
+Version 2.0.64 : 2017/Feb/20
+
+Fixes bluetooth device reconnect when Android puts the app to sleep.
+Provide a link to the Privacy Policy on the Information/Help page.
+Backup database files before upgrading to a new version.
+Provide an indicator of the DEMO database on the home screen.
+"Preparing..." dialog persists until ready for scoring.
+Online documents are now at http://www.kddart.org/help/kdsmart/
+
 Version 2.0.63 : 2016/Nov/16
 
 Allow LockDown mode unlock in some edge cases
