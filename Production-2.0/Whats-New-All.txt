@@ -1,3 +1,14 @@
+Version 2.0.65 : 2017/Mar/08
+
+Export to CSV now emits PlotAttributes
+Fixed "GoTo Plot" for X,Y values beginning from N greater than 1
+FieldView Search results for filtered values now works
+More German and Spanish translations
+If a Trait Alias exists, it is displayed instead of the Name
+  (this helps in multi-lingual environments)
+Prepare database for Beta testers of KDSmart version 3
+
+----------------
 Version 2.0.64 : 2017/Feb/20
 
 Fixes bluetooth device reconnect when Android puts the app to sleep.
@@ -7,6 +18,7 @@ Provide an indicator of the DEMO database on the home screen.
 "Preparing..." dialog persists until ready for scoring.
 Online documents are now at http://www.kddart.org/help/kdsmart/
 
+----------------
 Version 2.0.63 : 2016/Nov/16
 
 Allow LockDown mode unlock in some edge cases
