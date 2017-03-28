@@ -1,3 +1,9 @@
+Version 2.0.66 : 2017/Mar/28
+
+KDX export files now use the preference value for databaseVersion
+Process for KDXchange uses the first address on the same network as KDXplore
+
+----------------
 Version 2.0.65 : 2017/Mar/08
 
 Export to CSV now emits PlotAttributes
