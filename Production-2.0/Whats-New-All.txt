@@ -1,4 +1,4 @@
-Version 2.0.66 : 2017/Mar/28
+Version 2.0.67 : 2017/Mar/28
 
 * KDX export files now use the preference value for databaseVersion
 * The KDSmart process for KDXchange now uses the first address on the
