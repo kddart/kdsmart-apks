@@ -1,3 +1,12 @@
+Version 2.0.68 : 2017/May/22
+
+* Refresh KDSmart Demo Database to use a demo Block Trial
+* Trials with Blocks can be used with KDSmart.
+Trials with blocks need unique X and Y pair for every block number.
+* Bug with field traversal fixed.
+* Bug with CsvImport fixed.
+* Trial can belong to different Trial Types.
+
 Version 2.0.67 : 2017/Mar/28
 
 * KDX export files now use the preference value for databaseVersion
