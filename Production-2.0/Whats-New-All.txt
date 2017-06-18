@@ -1,3 +1,10 @@
+Version 2.0.69 : 2017/June/18
+
+* Auto Scoring can score all traits or unscored traits
+* Block Traversal bug fixed.
+* Better spanish and german translations
+* Help for selecting a Trial Layout is added in Trial screen page.
+
 Version 2.0.68 : 2017/May/22
 
 * Refresh KDSmart Demo Database to use a demo Block Trial
