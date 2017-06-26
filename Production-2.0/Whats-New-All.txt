@@ -1,3 +1,9 @@
+Version 2.0.70 : 2017/June/27
+
+* Csv import functionality for specimens import can now use #N or #* for all specimens.
+* Using SpecimenCount with #* or #N.
+* Importing a trial checks for Specimen level trait of format #N.
+
 Version 2.0.69 : 2017/June/18
 
 * Auto Scoring can score all traits or unscored traits
