@@ -1,3 +1,10 @@
+Version 2.0.71 : 2017/July/28
+
+* TagBundle and TraitBundle support for KDSmart 3.0 beta.
+* Database upgrade to support coming release 3.0.
+
+================
+
 Version 2.0.70 : 2017/June/27
 
 * Csv import functionality for specimens import can now use #N or #* for all specimens.
