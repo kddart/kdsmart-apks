@@ -1,3 +1,11 @@
+Version 2.0.72 : 2017/August/02
+
+* KDXchange bug fix for moving KDXplore Traits to KDSmart devices
+* KDXchange bug fix for moving KDXplore Tags to KDSMart devices.
+
+
+================
+
 Version 2.0.71 : 2017/July/28
 
 * TagBundle and TraitBundle support for KDSmart 3.0 beta.
