@@ -1,12 +1,50 @@
+Version 3.0.19 : 2018/May/18
+
+* Auto scoring skipping scored traits on "all-traits" bug fix.
+* Auto scoring continuation bug fix.
+
+================
+
+Version 3.0.18 : 2018/May/03
+
+* Urgent fix to database upgrade crash caused by updates from versions prior to 2.0.80 to 3.0.X
+
+================
+
+Version 3.0.17 : 2018/May/01
+
+* Bug  fix for Android 7.1, crashed application on start
+* Fixes with help and Online playstore content.
+
+================
+
+Version 3.0.16 : 2018/April/28 - BETA 3.0 merged with PRODUCTION 
+
+* First release of 3.0 -beta in production.
+* Please report bugs and Feedback on kdsmart@diversityarrays.com
+
+================
+
+Version 2.0.80 : 2018/April/27
+
+* Bug Fixes
+* DB Upgrade
+* Moving from beta to production for earlier versions is deprecated.
+which means 2.0.79 can be moved to 3.0.13 but cant be moved back.
+to move back to production 2.0.80 is needed.
+
+================
+
 Version 2.0.73 : 2018/January/22
 
 * Only database upgrade
+
+================
 
 Version 2.0.72 : 2017/August/02
 
 * KDXchange bug fix for moving KDXplore Traits to KDSmart devices
 * KDXchange bug fix for moving KDXplore Tags to KDSMart devices.
-
 
 ================
 
